@@ -84,7 +84,7 @@ Endianess is LSB
 	<tr>
 		<td>Green</td>
 		<td>1</td>
-		<td>First LED greeb component</td>
+		<td>First LED green component</td>
 	</tr>
 	<tr>
 		<td>Blue</td>
