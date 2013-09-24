@@ -9,7 +9,7 @@ Building
 
 The app requires some external addons. Install them in the addons folder
 
-- [ofxXmlSettings] (included with OF)
+- [ofxXmlSettings]
 - [ofxSimpleGuiToo]
 - [ofxMSAInteractiveObject]
 
