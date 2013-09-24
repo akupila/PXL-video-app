@@ -9,9 +9,9 @@ Building
 
 The app requires some external addons. Install them in the addons folder
 
-[ofxXmlSettings] (included with OF)
-[ofxSimpleGuiToo]
-[ofxMSAInteractiveObject]
+- [ofxXmlSettings] (included with OF)
+- [ofxSimpleGuiToo]
+- [ofxMSAInteractiveObject]
 
 When these have been installed the app should compile
 
